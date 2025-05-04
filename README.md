@@ -4,11 +4,11 @@ Hello I'm Andrei!
 Tech Enthusiast 🚀
 -----------------
 
-I'm a software dev/eng for almost 6 years now. I've being always trying to use algorithm or some kind of automation to solve my day2day issues/needs.
+I'm a software dev/eng for almost 8 years now. I've being always trying to use algorithm or some kind of automation to solve my day2day issues/needs.
 
 * 🌍  I'm based in São Paulo, Brasil
 * ✉️  You can contact me at [b.andrei.fig@gmail.com](mailto:b.andrei.fig@gmail.com)
-* 🖥️  I'm currently working on [Luma Health](http://www.lumahealth.io/)
+* 🖥️  I'm currently working on [Revelo](https://www.revelo.com.br/)
 *  Fun fact - I can type 125 wpm avg.
 
 ### Skills
