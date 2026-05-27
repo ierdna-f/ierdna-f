@@ -9,7 +9,7 @@ I'm a software dev/eng for almost 8 years now. I've being always trying to use a
 * 🌍  I'm based in São Paulo, Brasil
 * ✉️  You can contact me at [b.andrei.fig@gmail.com](mailto:b.andrei.fig@gmail.com)
 * 🖥️  I'm currently working on [Revelo](https://www.revelo.com.br/)
-*  Fun fact - I can type 125 wpm avg.
+*  Fun fact - I can type 140 wpm avg.
 
 ### Skills
 
